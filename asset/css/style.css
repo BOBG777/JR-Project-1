@@ -1,0 +1,49 @@
+/*==================================
+
+font-family: "Open Sans", sans-serif;
+
+==================================== */
+
+/*=========== TABLE OF CONTENTS ===========
+
+index-page
+1.  General
+2. 	Header
+3.  Navigation-bar
+4.  Section
+5.  Breadcrumb
+6.  Hero-container
+7.  About Me 
+8.  My Resume
+9.  Skills
+10. Projects
+11. Testimonials
+12. Live Share
+13. Contact
+14. Footer
+15. Theme Button
+16. back to top button
+===========*/
+
+@import 'body.css';
+@import 'header.css';
+@import 'navigation.css';
+@import 'section.css';
+@import 'breadcrumb.css';
+@import 'hero.css';
+@import 'about-me.css';
+@import 'resume.css';
+@import 'skills.css';
+@import 'projects.css';
+@import 'testimonials.css';
+@import 'live-share.css';
+@import 'contact.css';
+@import 'footer.css';
+@import 'button.css';
+@import 'back to top button.css';
+
+
+
+
+
+
