@@ -42,6 +42,7 @@
   .projects .collapse li {
     list-style:square;
     padding:10px;
+    margin-left:10px;
   }
   .projects .accordion-list a {
     display: block;
