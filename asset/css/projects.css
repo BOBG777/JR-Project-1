@@ -37,6 +37,11 @@
     padding: 20px;
     background: rgb(236, 236, 236);
     border-radius: 4px;
+    list-style: none;
+  }
+  .projects .collapse li {
+    list-style:square;
+    padding:10px;
   }
   .projects .accordion-list a {
     display: block;
