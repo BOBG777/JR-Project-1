@@ -15,26 +15,21 @@
     margin-left: 100px;
     margin-top: 20px;
 }
-
 .theme-btn .plus {
     padding-left: 16px;
 }
-
 .theme-btn:hover {
     background: #3A3A42;
     color: var(--primary-color, #ffcc33);
 }
-
 .theme-btn.style-two {
     padding: 0;
     display: inline-flex;
     align-items: center;
 }
-
 .theme-btn.style-two span {
     padding: 0 45px;
 }
-
 .theme-btn.style-two .bi-download {
     width: 110px;
     height: 90px;
@@ -44,12 +39,10 @@
     color: var(--primary-color, #ffcc33);
     transition: 0.5s;
 }
-
 .theme-btn.style-two:hover .flaticon-download {
     color: #000;
     background: var(--primary-color, #ffcc33);
 }
-
 .theme-btn.style-three {
     color: #000;
     line-height: 1;
@@ -57,11 +50,9 @@
     justify-content: center;
     padding: 22px 30px 18px;
 }
-
 .theme-btn.style-three:hover {
     color: #fff;
 }
-
 .theme-btn.style-three i {
     font-size: 18px;
     margin-top: -1px;
