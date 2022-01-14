@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 .testimonials {
     padding: 80px 0;
-    background: url("/asset/images/testimonials/testimonials-bg.jpg") no-repeat;
+    background: url("../images/testimonials/testimonials-bg.jpg") no-repeat;
     background-position: center center;
     background-size: cover;
     position: relative;
